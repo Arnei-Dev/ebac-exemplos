@@ -1,2 +1,2 @@
 # ebac-exemplos
-Exemplos para uso do Git
+Exemplos para uso do Git.
